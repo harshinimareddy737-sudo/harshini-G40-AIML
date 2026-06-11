@@ -7,7 +7,7 @@ A data analytics project built on **World Bank WDI data** that analyses economic
 ## 📁 Project Structure
 
 ```
-economic-dev-analytics/
+Economic_Development_Analytics/
 │
 ├── WDI_data.csv                                            # World Bank WDI raw data (your download)
 ├── Economic_Development_Analytics_Polars_Notebook.ipynb    # Main notebook (Polars only)
